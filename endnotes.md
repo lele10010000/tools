@@ -1,0 +1,7 @@
+# 文献的组织与管理
+* 如何将WOS中的文献条目导入本地endnote中
+* 如何将google solar中搜索的文献条目导入到本地endnote中
+* 如何实现online endnote与本地endnote以及ipad进行同步
+* 如何利用endnote和WOS批量下载文献
+* 如何对endnote条目中的附件文献进行重命名操作
+* 如何设置endnote自动搜索文件夹进行文献条目的添加
